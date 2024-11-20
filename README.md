@@ -85,7 +85,7 @@ This project is open-source and licensed under the MIT License.
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/zip-code-validator/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/4troDev/ZIP-Code-Validator/issues).
 
 ---
 
